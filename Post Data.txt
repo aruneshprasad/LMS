@@ -1,0 +1,10 @@
+{
+  "sId": "S001",
+  "studentId": "S001",
+  "name": "Arunesh Prasad",
+  "email":"arunesh.prasad002@gmail.com",
+  "password":"password",
+  "booksBorrowed": []
+}
+
+
